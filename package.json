@@ -1,0 +1,9 @@
+{
+	"name": "tcpdi",
+	"version": "1.4.0",
+	"author": "Fabrice GERGES - Blockchain Secure",
+	"scripts": {
+		"git_push": "git push -u origin master"
+	},
+	"private": true
+}
