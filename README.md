@@ -4,7 +4,7 @@ TCPDI
 Composer ready [TCPDI](https://github.com/pauln/tcpdi).
 
 PDF importer for [TCPDF](http://www.tcpdf.org/), based on [FPDI](http://www.setasign.de/products/pdf-php-solutions/fpdi/).
-Requires [pauln/tcpdi_parser](https://github.com/pauln/tcpdi_parser) and [FPDF_TPL](http://www.setasign.de/products/pdf-php-solutions/fpdi/downloads/)
+Requires [blockchain-secure/tcpdi_parser](https://github.com/blockchain-secure/tcpdi_parser) and [FPDF_TPL](http://www.setasign.de/products/pdf-php-solutions/fpdi/downloads/)
 which are included in the repository.
 
 Installation
@@ -13,7 +13,7 @@ Installation
 Link package in composer.json, e.g.
 
 ```sh
-composer require propa/tcpdi
+composer require blockchain-secure/tcpdi
 ```
 
 Usage
